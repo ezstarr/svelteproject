@@ -1,0 +1,1 @@
+<h1>default blog home</h1>
